@@ -6,7 +6,7 @@
     for Python 3 and MetaTrader 4.
     
     Source code:
-    https://github.com/darwinex/DarwinexLabs/tree/master/tools/dwx_zeromq_connector
+    https://github.com/Maxfrenk/forex_trading/blob/master/moving_avg_trader.py
     
     The strategy launches 'n' threads (each representing a trader responsible
     for trading one instrument - EURUSD, USDJPY, etc.)
